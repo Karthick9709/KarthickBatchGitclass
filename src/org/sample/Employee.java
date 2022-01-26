@@ -13,6 +13,9 @@ public class Employee {
 	private void m3() {
 		System.out.println("mohan done his work");
 	}
+	private void m4() {
+		System.out.println("m4 created by sandy");
+	}
 
 	public static void main(String[] args) {
 		int a = 10;
