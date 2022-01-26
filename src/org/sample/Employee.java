@@ -10,6 +10,10 @@ public class Employee {
 		System.out.println("m2 is created by vignesh");
 	}
 
+	private void m3() {
+		System.out.println("mohan done his work");
+	}
+
 	public static void main(String[] args) {
 		int a = 10;
 		System.out.println("a value:" + a);
